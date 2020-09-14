@@ -111,7 +111,7 @@
 /* SECCION 1  */
 
 p{
-    line-height: 2.0;
+    line-height: 1.75;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -203,6 +203,19 @@ section article h2{
     height: 300px;
 }
 
+
+/* SECCION 6 */
+#seccion6 article img{
+    margin: 20px;
+    width: 200px;
+    height:200px;
+    border-radius: 100%;
+    
+}
+
+#podcast{
+    margin: 20px;
+}
 
 footer{
 	padding:20px 10px;
